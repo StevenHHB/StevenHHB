@@ -5,7 +5,7 @@
 <h3 align="center">self-taught programmer, serial entrepreneur based in both US and China</h3>
 
 ###
-<h4 align="left">My Blog: www.stevenhhb.com</h4>
+<h4 align="left"><h3>My Blog:</h3> www.stevenhhb.com</h4>
 
 - 🔭 I’m currently working on [FutureSource Technology](www.theshuo.cn)
 
