@@ -6,22 +6,23 @@
 
 ###
 <h3 align="left">My Blog: <a href="http://www.stevenhhb.com">www.stevenhhb.com</a></h3>
+###
+<h3 align="left">Short Intro:</h3>
 
-- 🔭 I’m currently working on [FutureSource Technology](www.theshuo.cn)
+- 🔭 **I’m currently working** on [FutureSource Technology](www.theshuo.cn)
 
-- 🌱 Areas of Interest **AI,Consumer-Tech,Social-Network,Edtech**
+- 🌱 **Areas of Interest:** AI,Consumer-Tech,Social-Network,Edtech
 
-- 👨‍💻 Previous Project: [半区Hemi](www.ban.zone)
+- 👨‍💻 **Previous Project:** [半区Hemi](www.ban.zone)
 
-- 👨‍💻 Previous Project: [KeoPlus课优佳](www.keo.plus)
+- 👨‍💻 **Previous Project:** [KeoPlus课优佳](www.keo.plus)
 
-- 👨‍💻 All of my projects are available at [stevenhhb.com](stevenhhb.com)
+- 👨‍💻 **All of my projects are available at:** [stevenhhb.com](stevenhhb.com)
 
-- 📝 I regularly write articles on [stevenhhb.com](stevenhhb.com)
+- 📝 **I regularly write articles on:** [stevenhhb.com](stevenhhb.com)
 
-- 💬 Ask me about **Startups, Products, Sales, Fund-Raisings**
-
-
+- 💬 **Ask me about:** Startups, Products, Sales, Fund-Raisings
+###
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -107,7 +108,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stevenhhb&" alt="stevenhhb" /></p>
 
 ###
-
 <div align="left">
   <a href="huanghaobinsteven@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -124,8 +124,8 @@
 </div>
 
 ###
-
-<p align="left">📫Contact:<br><br>Email: huanghaobinsteven@gmail.com<br>Phone: +86-13520663827 / +1-6176719090</p>
+<h3 align="left">📫Contact:</h3>
+<p align="left">Email: huanghaobinsteven@gmail.com<br>Phone: +86-13520663827 / +1-6176719090</p>
 
 ###
 
