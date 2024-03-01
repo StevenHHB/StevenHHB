@@ -7,14 +7,6 @@
 ###
 <h4 align="left">My Blog: www.stevenhhb.com</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevenhhb" alt="stevenhhb" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevenhhb&show_icons=true&locale=en&layout=compact" alt="stevenhhb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stevenhhb&show_icons=true&locale=en" alt="stevenhhb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stevenhhb&" alt="stevenhhb" /></p>
-
 - 🔭 I’m currently working on [FutureSource Technology](www.theshuo.cn)
 
 - 🌱 Areas of Interest **AI,Consumer-Tech,Social-Network,Edtech**
@@ -106,6 +98,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevenhhb" alt="stevenhhb" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevenhhb&show_icons=true&locale=en&layout=compact" alt="stevenhhb" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stevenhhb&show_icons=true&locale=en" alt="stevenhhb" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stevenhhb&" alt="stevenhhb" /></p>
 
 ###
 
