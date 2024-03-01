@@ -3,10 +3,9 @@
 </div>
 <h1 align="center">Hi 👋, I'm Steven Huang黄浩彬</h1>
 <h3 align="center">self-taught programmer, serial entrepreneur based in both US and China</h3>
+
 ###
-
 <h6 align="left">My Blog: www.stevenhhb.com</h6>
-
 ###
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevenhhb" alt="stevenhhb" /></a> </p>
