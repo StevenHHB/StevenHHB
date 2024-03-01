@@ -6,10 +6,7 @@
 
 ###
 <h4 align="left">My Blog: www.stevenhhb.com</h4>
-
-###
-###
-###
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevenhhb" alt="stevenhhb" /></a> </p>
 
