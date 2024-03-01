@@ -129,10 +129,4 @@
 <p align="left">Email: huanghaobinsteven@gmail.com<br>Phone: +86-13520663827 / +1-6176719090</p>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/stevenhhb/stevenhhb/output/snake.svg" alt="Snake animation" />
-
-###
 <p><a href="https://ko-fi.com/https://ko-fi.com/stevenhhb"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/stevenhhb" /></a></p><br><br>
