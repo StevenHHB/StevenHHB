@@ -5,7 +5,11 @@
 <h3 align="center">self-taught programmer, serial entrepreneur based in both US and China</h3>
 
 ###
-<h5 align="left">My Blog: www.stevenhhb.com</h5>
+<h4 align="left">My Blog: www.stevenhhb.com</h4>
+
+###
+###
+###
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevenhhb" alt="stevenhhb" /></a> </p>
 
