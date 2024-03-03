@@ -22,7 +22,7 @@
 
 - 📝 **I regularly write articles on:** [stevenhhb.com](stevenhhb.com)
 
-- 💬 **Ask me about:** Startups, Products, Sales, Fund-Raisings
+- 💬 **Ask me about:** Startups, Products, Sales
 ###
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
