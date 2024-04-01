@@ -4,6 +4,7 @@
 <h1 align="center">Hi 👋, I'm Steven Huang黄浩彬</h1>
 <h3 align="left"><strong>My Blog: </strong><a href="http://www.stevenhhb.com">www.stevenhhb.com</a></h3>
 
+
 ###
 My name is Steven Huang, I am super passionate about startups, products,and tech. I've built 2 tech startups a 1 service company, and I am also recognized as the youngest member of **Hurun 30 Under 30** in 2021 and **American Chinese 30 Under 30** in 2022.
 
@@ -11,11 +12,14 @@ I was born in Beijing, China and spent half of my life in the US.
 
 I went to Babson College concentrating in technology and entrepreneurship, and I am also a self-taught programmer.
 
+
+
 ## Startups
 
-**- Founder&CEO of FutureSource Technologies** : Built **半区AI Companion** and **SHUO-Gen AI Agent Chain** that reached 700k+ users and 2 billion daily token consumptio.Raised 2 rounds from Chinese&US VCs and angels.
+**- Founder&CEO of FutureSource Technologies:** Built **半区AI Companion** and **SHUO-Gen AI Agent Chain** that reached 700k+ users and 2 billion daily token consumptio.Raised 2 rounds from Chinese&US VCs and angels.
 
-**- Co-Founder& Co-CEO Keo Technology**, I co-launched an AI-Powered LMS that reached 1M+ signed users and rasied 1 round from 2 VCs.
+**- Co-Founder& Co-CEO Keo Technology:** Co-launched an AI-Powered LMS that reached 1M+ signed users and rasied 1 investment round from 2 VCs.
+
 
 
 ## Achievements & Recognition
@@ -23,7 +27,8 @@ I went to Babson College concentrating in technology and entrepreneurship, and I
 - **Hurun 30 Under 30**: Youngest awardee in 2021
 - **American Chinese 30 Under 30**: Youngest awardee in 2022
 
-- 
+
+
 ***
 ###
 <h3 align="left">Languages and Tools:</h3>
