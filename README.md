@@ -2,27 +2,30 @@
   <img src="https://profile-counter.glitch.me/stevenhhb/count.svg?"  />
 </div>
 <h1 align="center">Hi 👋, I'm Steven Huang黄浩彬</h1>
-<h3 align="center">self-taught programmer, serial entrepreneur based in both US and China</h3>
-
 ###
 <h3 align="left"><strong>My Blog: </strong><a href="http://www.stevenhhb.com">www.stevenhhb.com</a></h3>
 
 ###
 <h3 align="left">Short Intro:</h3>
+My name is Steven Huang, I am super passionate about startups, products,and tech. I've built 2 tech startups a 1 service company, and I am also recognized as the youngest member of **Hurun 30 Under 30** in 2021 and **American Chinese 30 Under 30** in 2022.
 
-- 🔭 **I’m currently working** on [FutureSource Technology](www.theshuo.cn)
+I was born in Beijing, China and spent half of my life in the US.
 
-- 🌱 **Areas of Interest:** AI,Consumer-Tech,Social-Network,Edtech
+I went to Babson College concentrating in technology and entrepreneurship, and I am also a self-taught programmer.
 
-- 👨‍💻 **Previous Project:** [半区Hemi](www.ban.zone)
+## Entrepreneurial Journey
 
-- 👨‍💻 **Previous Project:** [KeoPlus课优佳](www.keo.plus)
+As the **Co-Founder & CEO of FutureSource Technologies**, I spearheaded the development of a groundbreaking AI platform, **SHUO-Gen AI Agent Chain**, achieving 2 billion daily token consumption and 500k+ users. My knack for identifying market gaps and forging strategic partnerships facilitated a successful funding round, raising over 5M RMB from notable investors including **Ondine Capital** and **Amino Capital**.
 
-- 👨‍💻 **All of my projects are available at:** [stevenhhb.com](stevenhhb.com)
+Prior, at **Keo Technology**, I co-launched an AI-Powered Learning Management System, catapulting the startup to 3 million RMB in sales within 4 months and securing 600k+ USD from investors. This venture underscored my ability to lead through innovation, achieving a staggering 90% monthly growth rate.
 
-- 📝 **I regularly write articles on:** [stevenhhb.com](stevenhhb.com)
 
-- 💬 **Ask me about:** Startups, Products, Sales
+
+## Achievements & Recognition
+
+- **Hurun 30 Under 30**: Youngest awardee in 2021
+- **American Chinese 30 Under 30**: Youngest awardee in 2022
+***
 ###
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -125,8 +128,14 @@
 </div>
 
 ###
-<h3 align="left">📫Contact:</h3>
-<p align="left">Email: huanghaobinsteven@gmail.com<br>Phone: +86-13520663827 / +1-6176719090</p>
+## Connect
 
-###
-<p><a href="https://ko-fi.com/https://ko-fi.com/stevenhhb"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/stevenhhb" /></a></p><br><br>
+- **Blog:** [www.stevenhhb.com](https://www.stevenhhb.com)
+- **Email:** [huanghaobinsteven@gmail.com](mailto:huanghaobinsteven@gmail.com)
+- **GitHub:** [stevenhhb](https://github.com/stevenhhb)
+- **LinkedIn:** [Steven Huang](https://www.linkedin.com/in/stevenhhb)
+
+Feel free to reach out via my website or LinkedIn.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/stevenhhb)
+
