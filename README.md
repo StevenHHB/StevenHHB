@@ -11,15 +11,13 @@ My name is Steven Huang, I am super passionate about startups, products,and tech
 
 I was born in **Beijing**, China and spent half of my life in the US.
 
-I went to **Babson College** while concentrating in technology and entrepreneurship.
-
-I am also a self-taught programmer.
+I went to **Babson College** while concentrating in technology and entrepreneurship, and I am also a self-taught programmer.
 
 
 
 ## Startups
 
--**Founder&CEO** of **FutureSource Technologies:** Built **半区**-AI Companion** and **SHUO**-Gen AI Agent Chain that reached 700k+ users and 2 billion daily token consumption. Raised 2 rounds of fundings from Chinese&US VCs and angels.
+-**Founder&CEO** of **FutureSource Technologies:** Built **半区**-AI Companion and **SHUO**-Accelerated Social Network,reached 700k+ users in total and 2B+ daily token consumption. Raised 2 rounds of fundings from Chinese&US VCs and angels.
 
 -**Co-Founder& Co-CEO** of **Keo Technology:** Co-launched an AI-Powered LMS that reached 1M+ signed users and rasied 1 investment round from 2 VCs.
 
