@@ -2,11 +2,9 @@
   <img src="https://profile-counter.glitch.me/stevenhhb/count.svg?"  />
 </div>
 <h1 align="center">Hi 👋, I'm Steven Huang黄浩彬</h1>
-###
 <h3 align="left"><strong>My Blog: </strong><a href="http://www.stevenhhb.com">www.stevenhhb.com</a></h3>
 
 ###
-<h3 align="left">Short Intro:</h3>
 My name is Steven Huang, I am super passionate about startups, products,and tech. I've built 2 tech startups a 1 service company, and I am also recognized as the youngest member of **Hurun 30 Under 30** in 2021 and **American Chinese 30 Under 30** in 2022.
 
 I was born in Beijing, China and spent half of my life in the US.
