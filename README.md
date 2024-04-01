@@ -2,15 +2,16 @@
   <img src="https://profile-counter.glitch.me/stevenhhb/count.svg?"  />
 </div>
 <h1 align="center">Hi 👋, I'm Steven Huang黄浩彬</h1>
+
 <h3 align="left"><strong>My Blog: </strong><a href="http://www.stevenhhb.com">www.stevenhhb.com</a></h3>
 
 
 ###
-My name is Steven Huang, I am super passionate about startups, products,and technology in general. I've built 2 tech startups that scaled to 1M+ users and a 1 service company. I am also recognized as the youngest member of **Hurun 30 Under 30** in 2021 and **American Chinese 30 Under 30** in 2022.
+My name is Steven Huang, I am super passionate about startups, products,and technology in general. I've built 2 tech startups that scaled to **1M+ users** and a 1 service company. I am also recognized as the youngest member of **Hurun 30 Under 30** in 2021 and **American Chinese 30 Under 30** in 2022.
 
-I was born in Beijing, China and spent half of my life in the US.
+I was born in **Beijing**, China and spent half of my life in the US.
 
-I went to Babson College while concentrating in technology and entrepreneurship.
+I went to **Babson College** while concentrating in technology and entrepreneurship.
 
 I am also a self-taught programmer.
 
@@ -18,9 +19,9 @@ I am also a self-taught programmer.
 
 ## Startups
 
-**- Founder&CEO of FutureSource Technologies:** Built **半区AI Companion** and **SHUO-Gen AI Agent Chain** that reached 700k+ users and 2 billion daily token consumption. Raised 2 rounds of fundings from Chinese&US VCs and angels.
+-**Founder&CEO** of **FutureSource Technologies:** Built **半区**-AI Companion** and **SHUO**-Gen AI Agent Chain that reached 700k+ users and 2 billion daily token consumption. Raised 2 rounds of fundings from Chinese&US VCs and angels.
 
-**- Co-Founder& Co-CEO Keo Technology:** Co-launched an AI-Powered LMS that reached 1M+ signed users and rasied 1 investment round from 2 VCs.
+-**Co-Founder& Co-CEO** of **Keo Technology:** Co-launched an AI-Powered LMS that reached 1M+ signed users and rasied 1 investment round from 2 VCs.
 
 
 
