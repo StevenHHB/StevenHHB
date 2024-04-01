@@ -11,18 +11,19 @@ I was born in Beijing, China and spent half of my life in the US.
 
 I went to Babson College concentrating in technology and entrepreneurship, and I am also a self-taught programmer.
 
-## Entrepreneurial Journey
+## Startups
 
-As the **Co-Founder & CEO of FutureSource Technologies**, I spearheaded the development of a groundbreaking AI platform, **SHUO-Gen AI Agent Chain**, achieving 2 billion daily token consumption and 500k+ users. My knack for identifying market gaps and forging strategic partnerships facilitated a successful funding round, raising over 5M RMB from notable investors including **Ondine Capital** and **Amino Capital**.
+**- Founder&CEO of FutureSource Technologies** : Built **半区AI Companion** and **SHUO-Gen AI Agent Chain** that reached 700k+ users and 2 billion daily token consumptio.Raised 2 rounds from Chinese&US VCs and angels.
 
-Prior, at **Keo Technology**, I co-launched an AI-Powered Learning Management System, catapulting the startup to 3 million RMB in sales within 4 months and securing 600k+ USD from investors. This venture underscored my ability to lead through innovation, achieving a staggering 90% monthly growth rate.
-
+**- Co-Founder& Co-CEO Keo Technology**, I co-launched an AI-Powered LMS that reached 1M+ signed users and rasied 1 round from 2 VCs.
 
 
 ## Achievements & Recognition
 
 - **Hurun 30 Under 30**: Youngest awardee in 2021
 - **American Chinese 30 Under 30**: Youngest awardee in 2022
+
+- 
 ***
 ###
 <h3 align="left">Languages and Tools:</h3>
