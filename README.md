@@ -1,147 +1,31 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/stevenhhb/count.svg?"  />
-</div>
-<h1 align="center">Hi 👋, I'm Steven Huang黄浩彬</h1>
+# Steven Huang (黄浩彬)
 
-<h3 align="left"><strong>My Blog: </strong><a href="http://www.stevenhhb.com">www.stevenhhb.com</a></h3>
-<h3 align="left"><strong>My Twitter/X: </strong><a href="http://www.x.com/stevenhhb">@stevenhhb</a></h3>
+Hey there! I'm Steven, a tech entrepreneur and self-taught programmer with a knack for building startups that scale. Born in Beijing and shaped by years in the US, I blend a global perspective with a hands-on approach to creating innovative products. I studied technology and entrepreneurship at **Babson College**, but my real education came from founding two tech startups that collectively reached **over 1M users** and raising multiple funding rounds from VCs and angels in the US and China.
 
+## What I've Built
+- **FutureSource Technologies** (Founder & CEO): Launched **半区**, an AI companion, and **SHUO**, an accelerated social network. Together, they’ve hit **700k+ users** and **2B+ daily token consumption**. Secured two funding rounds to fuel growth.
+- **Keo Technology** (Co-Founder & Co-CEO): Co-created an AI-powered learning management system that scaled to **1M+ users** and raised a round from two VCs.
+- Also founded a service company, because why stop at tech?
 
-###
-My name is Steven Huang, I am super passionate about startups, products,and technology in general. I've built 2 tech startups that scaled to **1M+ users** and a 1 service company. I am also recognized as the youngest member of **Hurun 30 Under 30** in 2021 and **American Chinese 30 Under 30** in 2022.
+## Recognition
+- Youngest member of **Hurun 30 Under 30** (2021)
+- Youngest awardee of **American Chinese 30 Under 30** (2022)
 
-I was born in **Beijing**, China and spent half of my life in the US.
+## Tech Stack
+I’m fluent in modern development and love building scalable, user-focused solutions. My go-to tools include:
+- **Languages**: JavaScript, TypeScript, Python, Dart
+- **Frameworks & Libraries**: React, Next.js, Vue.js, Django, Angular
+- **Tools & Platforms**: Node.js, Express, MongoDB, PostgreSQL, Docker, Firebase, Google Cloud, GraphQL, Tailwind CSS
+- **Design**: Figma, Adobe XD, Illustrator, Canva
+- **ML/AI**: PyTorch, TensorFlow, Pandas
 
-I went to **Babson College** while concentrating in technology and entrepreneurship, and I am also a self-taught programmer.
+Check out my [GitHub](https://github.com/stevenhhb) for projects that bring these to life.
 
+## Let’s Connect
+I’m always open to collaborating on exciting ideas or chatting about startups, tech, or anything in between. Find me at:
+- **Blog**: [stevenhhb.com](https://www.stevenhhb.com)
+- **LinkedIn**: [Steven Huang](https://www.linkedin.com/in/stevenhhb)
+- **X**: [@stevenhhb](https://www.x.com/stevenhhb)
+- **Email**: [huanghaobinsteven@gmail.com](mailto:huanghaobinsteven@gmail.com)
 
-
-## Startups
-
--**Founder&CEO** of **FutureSource Technologies:** Built **半区**-AI Companion and **SHUO**-Accelerated Social Network,reached 700k+ users in total and 2B+ daily token consumption. Raised 2 rounds of fundings from Chinese&US VCs and angels.
-
--**Co-Founder& Co-CEO** of **Keo Technology:** Co-launched an AI-Powered LMS that reached 1M+ signed users and rasied 1 investment round from 2 VCs.
-
-
-
-## Achievements & Recognition
-
-- **Hurun 30 Under 30**: Youngest awardee in 2021
-- **American Chinese 30 Under 30**: Youngest awardee in 2022
-
-
-
-***
-###
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" height="30" alt="podman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-</div>
-<br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevenhhb" alt="stevenhhb" /></a> </p>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevenhhb&show_icons=true&locale=en&layout=compact" alt="stevenhhb" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stevenhhb&show_icons=true&locale=en" alt="stevenhhb" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stevenhhb&" alt="stevenhhb" /></p>
-
-###
-<div align="left">
-  <a href="huanghaobinsteven@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/stevenhhb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.x.com/stevenhhb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="+1-6176719090" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-## Connect
-
-- **Blog:** [www.stevenhhb.com](https://www.stevenhhb.com)
-- **Email:** [huanghaobinsteven@gmail.com](mailto:huanghaobinsteven@gmail.com)
-- **GitHub:** [stevenhhb](https://github.com/stevenhhb)
-- **LinkedIn:** [Steven Huang](https://www.linkedin.com/in/stevenhhb)
-
-Feel free to reach out via my website or LinkedIn.
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/stevenhhb)
-
+Want to support my work? [Buy me a coffee](https://www.buymeacoffee.com/stevenhhb)!
